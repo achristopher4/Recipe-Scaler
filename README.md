@@ -16,7 +16,7 @@ Also, express all improper fractions (where the numerator exceeds the denominato
 
 And of course, the resulting output should still be easy to read.
 
-ther Guidelines
+Other Guidelines
 
 Clarity of code is still important here -- and clear code is less likely to have bugs.
 
